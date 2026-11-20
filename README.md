@@ -1,4 +1,3 @@
-# Air-Quality-Analysis-Project
 # Air Quality Analysis Project
 
 **Student:** Alberto Ruiz
